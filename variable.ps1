@@ -5,3 +5,6 @@ Write-Output $var
 
 $change = "we have changed this"
 Write-Output $change
+
+$another = "Testing"
+Write-Output $another
